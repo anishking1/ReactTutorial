@@ -82,14 +82,14 @@ var styles = StyleSheet.create({
   },
   searchBarInput: {
     flex: 1,
-    height: 30,
+    height: 25,
     marginTop: 20,
     marginBottom: 800,
     padding: 2,
     fontSize: 10,
     borderWidth: 0,
     //borderColor: 'red',
-    backgroundColor: 'grey',
+    backgroundColor: '#f0ffff',
   },
 });
 
